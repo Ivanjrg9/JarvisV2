@@ -6,6 +6,10 @@
 
 App de escritorio para Windows para trabajar con varias sesiones de [Claude Code](https://claude.com/claude-code) organizadas en espacios de trabajo. Está hecha con Electron y xterm.js, y está inspirada en cmux de macOS.
 
+<p align="center">
+  <img src="docs/captura.png" alt="Captura de JarvisV2 con tres espacios y tres paneles" width="800">
+</p>
+
 ## Funciones
 
 - **Espacios de trabajo:** uno por carpeta de proyecto, con color propio. Se pueden renombrar con doble clic, reordenar arrastrando y colapsar la barra lateral con `Ctrl+B`.
